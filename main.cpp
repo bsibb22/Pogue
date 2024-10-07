@@ -10,6 +10,7 @@ int main() {
     //cout << endl;
 
     // now the above lines of code become...
+    OM.print("\n");
     OM.print("[cyan]This is an example[/cyan] of default text.\n");
     OM.print("Adding [b_magenta]flavor[/b_magenta] text is also [i]quite[/i] straightforward!?\n");
     return 0;
